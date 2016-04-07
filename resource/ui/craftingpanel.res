@@ -16,9 +16,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 255"
-		"infocus_bgcolor_override" "46 43 42 255"
-		"outoffocus_bgcolor_override" "46 43 42 255"
+		"bgcolor_override"	"15 15 15 255"
+		"infocus_bgcolor_override" "15 15 15 255"
+		"outoffocus_bgcolor_override" "15 15 15 255"
 
 		"item_ypos"						"85"
 		"output_item_ypos"				"255"		
@@ -84,7 +84,7 @@
 					"enabled"		"1"
 					"labelText"		"%itemname%"
 					"textAlignment"	"south"
-					"fgcolor"		"235 226 202 255"
+					"fgcolor"		"m0reWhite"
 					"wrap"			"1"
 					"centerwrap"	"1"
 				}

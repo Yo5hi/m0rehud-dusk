@@ -166,8 +166,8 @@
 		"armedFgColor_override" "200 80 60 255"
 		"depressedFgColor_override" "46 43 42 255"
 			
-		"image_drawcolor"	"150 60 45 255"
-		"image_armedcolor"	"200 80 60 255"
+		"image_drawcolor"	"235 235 235 255"
+		"image_armedcolor"	"0 91 46 255"
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"

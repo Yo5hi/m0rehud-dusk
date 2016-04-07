@@ -52,6 +52,19 @@
 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"0"	
 	}
+	"HealthBG"
+	{
+		"ControlName"         "ImagePanel"
+		"fieldName"           "HealthBG"
+		"xpos"                "0"
+		"ypos"                "31"
+		"zpos"                "-1"
+		"wide"	          	  "45"
+		"tall"                "21"
+		"visible"             "1"
+		"enabled"             "1"
+		"fillcolor"           "0 0 0 100"
+	}
 
 	"DisguiseNameLabel"
 	{	
@@ -99,7 +112,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"SpectatorGUIHealth"
-		"xpos"			"5"
+		"xpos"			"4"
 		"ypos"			"20"
 		"wide"			"38"
 		"tall"			"38"

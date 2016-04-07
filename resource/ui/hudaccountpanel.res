@@ -5,8 +5,8 @@
 		"delta_item_x"	"130"
 		"delta_item_start_y"	"1"
 		"delta_item_end_y"		"15"
-		"PositiveColor"			"0 255 0 155"
-		"NegativeColor"			"255 0 0 155"
+		"PositiveColor"			"m0reOverheal"
+		"NegativeColor"			"m0reDanger"
 		"delta_lifetime"		"1"
 		"delta_item_font"		"AllerDisplay18"
 	}

@@ -4,10 +4,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ItemQuickSwitchPanel"
-		"xpos"			"c-125"
-		"ypos"			"280"
+		"xpos"			"c153"
+		"ypos"			"250"
 		"wide"			"275"
-		"tall"			"160"
+		"tall"			"230"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -16,7 +16,8 @@
 		"settitlebarvisible"	"0"
 		
 		"PaintBackgroundType"	"2"
-		"bgcolor_override"	"46 43 42 255"
+		"bgcolor_override"	"15 15 15 255"
+		"border"			"NoBorder"
 		
 		"itempanel_xpos"	"0"
 		"itempanel_ydelta"	"0"
@@ -48,7 +49,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"m0refont10"
 		"labelText"		">>"
 		"textAlignment"	"west"
 		"xpos"			"5"
@@ -60,7 +61,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "m0recgreen"
 	}
 	"ClassLabel"
 	{
@@ -107,7 +108,7 @@
 		"zpos"			"2"
 		"wide"			"265"
 		"tall"			"10"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
@@ -121,7 +122,7 @@
 		"xpos"			"5"
 		"ypos"			"30"
 		"wide"			"265"
-		"tall"			"125"
+		"tall"			"195"
 		"PaintBackgroundType"	"2"
 		"fgcolor_override"	"59 54 48 255"
 		"bgcolor_override"	"200 187 161 0"

@@ -17,7 +17,7 @@
 
 		"font"		"fogCrosshairSmooth"	//change this to fogCrosshairSmall if you want a smaller one.
 
-		"labeltext"	"c"
+		"labeltext"	"8"
 		// Change the "8" to represent the crosshair you want displayed in the Crosshairs.jpg
 		
 		// Remember, each resolution behaves differently, if your crosshair is skewed, not centered,
@@ -383,13 +383,9 @@
 		"fieldName" "BuildingStatus_Engineer"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"0"
-		"xpos_hidef"		"32"
-		"xpos_lodef"		"40"
+		"xpos"		"-18"
 		"ypos"		"0"
-		"ypos_hidef"		"16"
-		"ypos_lodef"		"25"
-		"wide"		"640"
+		"wide"		"f0"
 		"tall"		"480"
 		
 		"PaintBackgroundType"	"2"

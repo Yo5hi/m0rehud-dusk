@@ -709,11 +709,11 @@
 	{
 		"ControlName"	"CTFStreamListPanel"
 		"fieldName"		"StreamListPanel"
-		"xpos"			"c5"
-		"ypos"			"65"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"300"
-		"tall"			"350"
+		"wide"			"100"
+		"tall"			"f0"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"paintbackground"	"1"
@@ -935,8 +935,9 @@
 		"tall"			"350"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
-		"paintbackground"	"0"
-		"border"		"MainMenuHighlightBorder"
+		"paintbackground"	"1"
+		"border"		"NoBorder"
+		"bgcolor_override"	"TransparentBlack"
 
 		"navDown"		"SettingsButton"		// when a sub element can't nav down it will pass through this
 		"navLeft"		"MOTD_ShowButtonPanel"	// when a sub element can't nav left it will pass through this
@@ -968,8 +969,8 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"PaintBackgroundType" "2"
-				"fgcolor_override"	"235 226 202 255"
-				"bgcolor_override"	"141 178 61 255"
+				"fgcolor_override"	"m0reWhite"
+				"bgcolor_override"	"0 0 0 0"
 			}
 		}
 		
@@ -1010,7 +1011,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_armedcolor"	"0 91 46 255"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1057,7 +1058,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"LabelDark"
+			"fgcolor_override"	"m0reWhite"
 			"wrap"			"1"
 		}
 		
@@ -1076,7 +1077,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"LabelDark"
+			"fgcolor_override"	"m0reWhite"
 		}
 		
 		"MOTD_TitleImageBg"
@@ -1132,7 +1133,7 @@
 			"wide"			"280"
 			"tall"			"115"
 			"PaintBackgroundType"	"2"
-			"fgcolor"		"LabelDark"
+			"fgcolor_override"	"m0reWhite"
 			
 			"MOTD_TextPanel"
 			{
@@ -1160,7 +1161,7 @@
 					"pinCorner"		"0"
 					"visible"		"1"
 					"enabled"		"1"
-					"fgcolor"		"LabelDark"
+					"fgcolor_override"	"m0reWhite"
 					"wrap"			"1"
 				}
 			}

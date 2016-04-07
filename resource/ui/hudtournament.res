@@ -180,7 +180,7 @@
 				
 				if_mvm
 				{
-					"xpos"			"5"
+					"xpos"			"14"
 					"ypos"			"4"
 					"wide"			"20"
 					"tall"			"20"
@@ -199,7 +199,7 @@
 
 				if_readymode
 				{
-					"xpos"			"5"
+					"xpos"			"14"
 					"ypos"			"4"
 					"wide"			"20"
 					"tall"			"20"
@@ -211,11 +211,11 @@
 			{
 				"ControlName"		"Panel"
 				"fieldName"		"classimagebg"
-				"xpos"			"7"
-				"ypos"			"3"
+				"xpos"			"14"
+				"ypos"			"4"
 				"zpos"			"2"
-				"wide"			"12"
-				"tall"			"12"
+				"wide"			"23"
+				"tall"			"20"
 				"visible"		"1"
 				"enabled"		"1"
 				"bgcolor_override"		"Black"
@@ -736,7 +736,7 @@
 		if_competitive
 		{
 			"xpos"			"0"
-			"ypos"			"0"
+			"ypos"			"5"
 			"tall"			"35"
 			"visible"		"1"
 			"font"			"m0refont12"
@@ -891,7 +891,7 @@
 			"ypos"			"70"
 			"wide"			"190"
 			"tall"			"12"
-			"visible"		"1"
+			"visible"		"0"
 			"fgcolor"		"255 255 255 255"
 		}
 		

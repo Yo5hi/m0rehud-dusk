@@ -107,7 +107,7 @@
 		"textAlignment"			"left"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"AllerDisplay24"
+		"font"					"M0refontbold24"
 	}
 	"ItemEffectMeterCountShadow"
 	{
@@ -127,7 +127,7 @@
 		"textAlignment"			"left"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"AllerDisplay24"
+		"font"					"M0refontbold24"
 	}
 	"KillStreakIcon"
 	{

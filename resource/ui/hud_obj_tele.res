@@ -24,11 +24,11 @@
 		"zpos"			"-1"
 		"wide"			"120"
 		"tall"			"31"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"obj_status_background_disabled"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"228 228 242 255"
 	}
 	
 	"Icon_Teleport"
@@ -43,14 +43,14 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"obj_status_tele_entrance"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"228 228 242 255"
 	}
 	
 	"NotBuiltPanel"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NotBuiltPanel"
-		"xpos"			"0"
+		"xpos"			"2"
 		"ypos"			"0"
 		"wide"			"160"
 		"tall"			"31"
@@ -60,7 +60,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NotBuiltLabel"
-			"font"			"DefaultVerySmall"
+			"font"			"m0refont10"
 			"xpos"			"60"
 			"ypos"			"0"
 			"wide"			"200"
@@ -99,7 +99,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"	
 			"icon"			"obj_status_upgrade_1"
-			"iconColor"		"255 255 255 255"
+			"iconColor"		"228 228 242 255"
 		}
 
 		"Icon_Upgrade_2"
@@ -115,7 +115,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"	
 			"icon"			"obj_status_upgrade_2"
-			"iconColor"		"255 255 255 255"
+			"iconColor"		"228 228 242 255"
 		}
 
 		"Icon_Upgrade_3"
@@ -131,7 +131,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"	
 			"icon"			"obj_status_upgrade_3"
-			"iconColor"		"255 255 255 255"
+			"iconColor"		"228 228 242 255"
 		}
 
 
@@ -139,10 +139,11 @@
 		{
 			"ControlName"	"CBuildingStatusAlertTray"
 			"fieldName"		"AlertTray"
-			"xpos"			"113"
-			"ypos"			"0"
-			"wide"			"34"
-			"tall"			"31"
+			"xpos"			"104"
+			"ypos"			"2"
+			"zpos"			"-2"
+			"wide"			"4"
+			"tall"			"27"
 			"visible"		"1"
 			"enabled"		"1"	
 			"icon"			"obj_status_alert_background"
@@ -161,7 +162,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"	
 			"icon"			"obj_status_icon_wrench"
-			"iconColor"		"255 255 255 255"
+			"iconColor"		"228 228 242 255"
 		}
 		
 		"SapperIcon"
@@ -177,7 +178,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"	
 			"icon"			"obj_status_icon_sapper"
-			"iconColor"		"255 255 255 255"
+			"iconColor"		"228 228 242 255"
 		}
 
 		"Health"
@@ -212,7 +213,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"BuildingLabel"
-				"font"			"DefaultSmall"
+				"font"			"m0refont10"
 				"xpos"			"0"
 				"ypos"			"5"
 				"wide"			"200"
@@ -270,7 +271,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"RechargeLabel"
-					"font"			"DefaultVerySmall"
+					"font"			"m0refont10"
 					"xpos"			"0"
 					"ypos"			"1"
 					"wide"			"200"
@@ -318,7 +319,7 @@
 				{	
 					"ControlName"	"CExLabel"
 					"fieldName"		"TimesUsedLabel"
-					"font"			"DefaultVerySmall"
+					"font"			"m0refont10"
 					"xpos"			"0"
 					"ypos"			"-6"
 					"wide"			"200"
@@ -338,7 +339,7 @@
 			{	
 				"ControlName"	"CExLabel"
 				"fieldName"		"UpgradeLabel"
-				"font"			"DefaultVerySmall"
+				"font"			"m0refont10"
 				"xpos"			"0"
 				"ypos"			"14"
 				"wide"			"200"
