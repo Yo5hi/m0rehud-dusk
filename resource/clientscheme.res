@@ -39,6 +39,8 @@ Scheme
 		"Transparentm0reRed"				"255 0 0 100"
 		"Lime"								"75 255 75 255"
 		"GrayBGDarkest"        				"27 27 27 255"
+		"HudBGBuilding"     				"0 0 0 0"          
+        "HudBG"             				"0 0 0 0"
 		
 		// base colors
 		"Orange"			"178 82 22 255"
@@ -54,7 +56,7 @@ Scheme
 		"QuestStandardHighlight"	"0 255 0 255"
 		"QuestBonusHighlight"		"150 160 255 255"
 		
-		"White"				"235 235 235 255"
+		"White"				"255 255 255 255"
 		"Red"				"255 0 0 255"
 		"RedSolid"			"255 0 0 255"
 		"Blue"				"0 128 255 255"
@@ -107,7 +109,7 @@ Scheme
 		"HudTrainingHint"			"212 160 23 255"
 		
 		"TanDark"				"117 107 94 255"
-		"TanLight"				"235 226 202 255"
+		"TanLight"				"255 255 255 255"
 		"TanDarker"				"46 43 42 255"
 		
 		"StoreDarkTan"			"131 121 104 255"
@@ -1466,7 +1468,7 @@ Scheme
 			"1"
 			{
 				"name"		"Surface-Bold"
-				"tall"		"12"
+				"tall"		"22"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -1678,6 +1680,78 @@ Scheme
 			}
 		}
 		
+		"MPICS36"
+		{
+			"1"
+			{
+			"name"			"ModernPictograms"
+			"tall"			"36"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
+		"MPICS42"
+		{
+			"1"
+			{
+			"name"			"ModernPictograms"
+			"tall"			"42"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
+		"MPICS48"
+		{
+			"1"
+			{
+			"name"			"ModernPictograms"
+			"tall"			"48"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
+		"MPICS50"
+		{
+			"1"
+			{
+			"name"			"ModernPictograms"
+			"tall"			"50"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
+		"MPICS52"
+		{
+			"1"
+			{
+			"name"			"ModernPictograms"
+			"tall"			"52"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
+		"MPICS55"
+		{
+			"1"
+			{
+			"name"			"ModernPictograms"
+			"tall"			"55"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
 		"HDI8"
 		{
 			"1"
@@ -1744,6 +1818,114 @@ Scheme
 			{
 			"name"			"Heydings Icons"
 			"tall"			"22"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
+		"HDI36"
+		{
+			"1"
+			{
+			"name"			"Heydings Icons"
+			"tall"			"36"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
+		"HDI42"
+		{
+			"1"
+			{
+			"name"			"Heydings Icons"
+			"tall"			"42"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
+		"HDI48"
+		{
+			"1"
+			{
+			"name"			"Heydings Icons"
+			"tall"			"48"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
+		"HDI50"
+		{
+			"1"
+			{
+			"name"			"Heydings Icons"
+			"tall"			"50"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
+		"HDI52"
+		{
+			"1"
+			{
+			"name"			"Heydings Icons"
+			"tall"			"52"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
+		"WHHG42"
+		{
+			"1"
+			{
+			"name"			"Webhostinghub Glyphs"
+			"tall"			"42"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
+		"WHHG48"
+		{
+			"1"
+			{
+			"name"			"Webhostinghub Glyphs"
+			"tall"			"48"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
+		"WHHG50"
+		{
+			"1"
+			{
+			"name"			"Webhostinghub Glyphs"
+			"tall"			"50"
+			"additive"		"0"
+			"antialias"		"1"
+			"outline"		"0"
+			}
+		}
+		
+		"WHHG52"
+		{
+			"1"
+			{
+			"name"			"Webhostinghub Glyphs"
+			"tall"			"52"
 			"additive"		"0"
 			"antialias"		"1"
 			"outline"		"0"
@@ -3448,6 +3630,17 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"MatchSummaryWinner"
+		{
+			"1"
+			{
+				"name"		"Surface-Medium"
+				"tall"		"20"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		
 		"ControlPointTimer"
 		{
@@ -4615,6 +4808,66 @@ Scheme
 			}
 		}
 		
+		m0reBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "m0recgreen"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "m0recgreen"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "m0recgreen"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "m0recgreen"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "m0recgreen"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "m0recgreen"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "m0recgreen"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "m0recgreen"
+					"offset" "0 0"
+				}
+			}
+		}
+		
 		TeamMenuBorder
 		{
 			"inset" "0 0 0 0"
@@ -4690,20 +4943,20 @@ Scheme
 		ButtonBorder
 		{
 			"inset" "0 0 0 0"
-			"backgroundtype" "2"
+			"color" "Blank"
 		}
 
 		// this is the border used for default buttons (the button that gets pressed when you hit enter)
 		ButtonKeyFocusBorder
 		{
 			"inset" "0 0 0 0"
-			"backgroundtype" "2"
+			"color" "Blank"
 		}
 
 		ButtonDepressedBorder
 		{
 			"inset" "0 0 0 0"
-			"backgroundtype" "2"
+			"color" "Blank"
 		}
 
 		ComboBoxBorder
@@ -4713,7 +4966,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanLight"
+					"color" "Blank"
 					"offset" "0 1"
 				}
 			}
@@ -4722,7 +4975,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanLight"
+					"color" "Blank"
 					"offset" "1 0"
 				}
 			}
@@ -4731,7 +4984,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanLight"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -4740,7 +4993,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanLight"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -4945,6 +5198,17 @@ Scheme
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"0"	
 		}
+		TFFatLineBorderRedBGMoreOpaque
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_red_more_opaque"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
 		TFFatLineBorderBlueBG
 		{
 			"bordertype"			"scalable_image"
@@ -4952,6 +5216,17 @@ Scheme
 			
 			"image"					"backpack_rect_mouseover_color"
 			"color"					"m0reBlue"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		TFFatLineBorderBlueBGMoreOpaque
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_blu_more_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -6624,6 +6899,11 @@ Scheme
 		{
 			"font" "resource/fonts/crosshair.ttf"
 			"name" "crosshair"  
+		}
+		"23" 
+		{
+			"font" "resource/fonts/webhostinghub-glyphs.ttf"
+			"name" "Webhostinghub Glyphs"  
 		}
 	}
 }
